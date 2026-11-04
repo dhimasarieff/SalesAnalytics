@@ -1,0 +1,97 @@
+{
+  "summary": {
+    "totalRevenue": 342550000.0,
+    "totalTransactions": 10,
+    "totalItemsSold": 17,
+    "averageTransaction": 34255000.0
+  },
+  "topProduct": "Mobil BMW",
+  "products": [
+    {
+      "productName": "Mobil BMW",
+      "quantity_sold": 1,
+      "revenue": 300000000,
+      "transaction_count": 1
+    },
+    {
+      "productName": "Motor",
+      "quantity_sold": 1,
+      "revenue": 25000000,
+      "transaction_count": 1
+    },
+    {
+      "productName": "Laptop",
+      "quantity_sold": 2,
+      "revenue": 15000000,
+      "transaction_count": 1
+    },
+    {
+      "productName": "Keyboard",
+      "quantity_sold": 3,
+      "revenue": 1050000,
+      "transaction_count": 1
+    },
+    {
+      "productName": "Mouse",
+      "quantity_sold": 5,
+      "revenue": 750000,
+      "transaction_count": 1
+    },
+    {
+      "productName": "Bunga Cinta",
+      "quantity_sold": 1,
+      "revenue": 300000,
+      "transaction_count": 1
+    },
+    {
+      "productName": "Adaptor",
+      "quantity_sold": 1,
+      "revenue": 200000,
+      "transaction_count": 1
+    },
+    {
+      "productName": "Baju Cinta",
+      "quantity_sold": 1,
+      "revenue": 200000,
+      "transaction_count": 1
+    },
+    {
+      "productName": "Coklat Cinta",
+      "quantity_sold": 2,
+      "revenue": 50000,
+      "transaction_count": 2
+    }
+  ],
+  "dailySales": [
+    {
+      "sale_date": "2026-09-30",
+      "revenue": 15000000,
+      "items_sold": 2
+    },
+    {
+      "sale_date": "2026-10-01",
+      "revenue": 750000,
+      "items_sold": 5
+    },
+    {
+      "sale_date": "2026-10-02",
+      "revenue": 1050000,
+      "items_sold": 3
+    },
+    {
+      "sale_date": "2026-10-19",
+      "revenue": 300550000,
+      "items_sold": 5
+    },
+    {
+      "sale_date": "2026-10-28",
+      "revenue": 200000,
+      "items_sold": 1
+    },
+    {
+      "sale_date": "2026-11-04",
+      "revenue": 25000000,
+      "items_sold": 1
+    }
+  ]
+}
